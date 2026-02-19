@@ -1,0 +1,250 @@
+﻿Equipo;Dorsal;Nombre completo;Apodo;país;altura;peso;posición
+F.C. Barcelona;13;Joan García;Joan;N/D;1.93m;83kg;Portero
+F.C. Barcelona;25;Wojciech Szczesny;Wojciech;N/D;1.96m;96kg;Portero
+F.C. Barcelona;31;Diego Kochen;Diego;N/D;1.88m;83kg;Portero
+F.C. Barcelona;33;Eder Aller;Eder;N/D;1.93m;73kg;Portero
+F.C. Barcelona;02;João Cancelo;João;N/D;1.83m;73kg;Defensa
+F.C. Barcelona;03;Alejandro Balde;Alejandro;N/D;1.78m;76kg;Defensa
+F.C. Barcelona;04;Ronald Araújo;Ronald;N/D;1.91m;96kg;Defensa
+F.C. Barcelona;05;Pau Cubarsí;Pau;N/D;1.83m;78kg;Defensa
+F.C. Barcelona;15;Andreas Christensen;Andreas;N/D;1.88m;83kg;Defensa
+F.C. Barcelona;18;Gerard Martín;Gerard;N/D;1.85m;82kg;Defensa
+F.C. Barcelona;23;Jules Koundé;Jules;N/D;1.8m;83kg;Defensa
+F.C. Barcelona;24;Eric García;Eric;N/D;1.8m;77kg;Defensa
+F.C. Barcelona;26;Jofre Torrents;Jofre;N/D;1.85m;73kg;Defensa
+F.C. Barcelona;42;Xavi Espart;Xavi;N/D;1.75m;55kg;Defensa
+F.C. Barcelona;06;Gavi;Gavi;N/D;1.75m;68kg;Centrocampista
+F.C. Barcelona;08;Pedri;Pedri;N/D;1.75m;68kg;Centrocampista
+F.C. Barcelona;16;Fermín López;Fermín;N/D;1.75m;73kg;Centrocampista
+F.C. Barcelona;17;Marc Casadó;Marc;N/D;1.7m;63kg;Centrocampista
+F.C. Barcelona;20;Dani Olmo;Dani;N/D;1.83m;73kg;Centrocampista
+F.C. Barcelona;21;Frenkie de Jong;Frenkie;N/D;1.83m;73kg;Centrocampista
+F.C. Barcelona;22;Marc Bernal;Marc;N/D;1.93m;87kg;Centrocampista
+F.C. Barcelona;30;Guille Fernández;Guille;N/D;1.78m;76kg;Centrocampista
+F.C. Barcelona;41;Juan Hernández;Juan;N/D;1.78m;--;Centrocampista
+F.C. Barcelona;43;Tomás Marqués;Tomás;N/D;1.85m;--;Centrocampista
+F.C. Barcelona;07;Ferran Torres;Ferran;N/D;1.83m;78kg;Delantero
+F.C. Barcelona;09;Robert Lewandowski;Robert;N/D;1.85m;81kg;Delantero
+F.C. Barcelona;10;Lamine Yamal;Lamine;N/D;1.78m;72kg;Delantero
+F.C. Barcelona;11;Raphinha;Raphinha;N/D;1.75m;72kg;Delantero
+F.C. Barcelona;14;Marcus Rashford;Marcus;N/D;1.88m;78kg;Delantero
+F.C. Barcelona;19;Roony Bardghji;Roony;N/D;1.73m;73kg;Delantero
+F.C. Barcelona;29;Toni Fernández;Toni;N/D;1.75m;73kg;Delantero
+F.C. Barcelona;37;Daniel Rodríguez;Daniel;N/D;1.75m;--;Delantero
+Real Madrid;01;Thibaut Courtois;Thibaut;N/D;2.01m;96kg;Portero
+Real Madrid;13;Andriy Lunin;Andriy;N/D;1.91m;78kg;Portero
+Real Madrid;26;Fran González;Fran;N/D;2.01m;72kg;Portero
+Real Madrid;29;Javier Navarro;Javier;N/D;1.8m;74kg;Portero
+Real Madrid;43;Sergio Mestre;Sergio;N/D;1.93m;78kg;Portero
+Real Madrid;02;Dani Carvajal;Dani;N/D;1.73m;73kg;Defensa
+Real Madrid;03;Éder Militão;Éder;N/D;1.85m;78kg;Defensa
+Real Madrid;04;David Alaba;David;N/D;1.8m;78kg;Defensa
+Real Madrid;12;Trent Alexander-Arnold;Trent;N/D;1.75m;67kg;Defensa
+Real Madrid;17;Raúl Asencio;Raúl;N/D;1.83m;78kg;Defensa
+Real Madrid;18;Álvaro Carreras;Álvaro;N/D;1.85m;78kg;Defensa
+Real Madrid;20;Fran García;Fran;N/D;1.7m;63kg;Defensa
+Real Madrid;22;Antonio Rüdiger;Antonio;N/D;1.91m;83kg;Defensa
+Real Madrid;23;Ferland Mendy;Ferland;N/D;1.8m;73kg;Defensa
+Real Madrid;24;Dean Huijsen;Dean;N/D;1.96m;87kg;Defensa
+Real Madrid;27;Diego Aguado;Diego;N/D;1.8m;68kg;Defensa
+Real Madrid;32;Jesús Fortea;Jesús;N/D;1.75m;62kg;Defensa
+Real Madrid;35;David Jiménez;David;N/D;1.7m;63kg;Defensa
+Real Madrid;36;Joan Martínez;Joan;N/D;1.93m;73kg;Defensa
+Real Madrid;40;Víctor Valdepeñas;Víctor;N/D;1.88m;73kg;Defensa
+Real Madrid;05;Jude Bellingham;Jude;N/D;1.85m;73kg;Centrocampista
+Real Madrid;06;Eduardo Camavinga;Eduardo;N/D;1.83m;68kg;Centrocampista
+Real Madrid;08;Federico Valverde;Federico;N/D;1.83m;78kg;Centrocampista
+Real Madrid;14;Aurélien Tchouaméni;Aurélien;N/D;1.88m;81kg;Centrocampista
+Real Madrid;15;Arda Güler;Arda;N/D;1.75m;67kg;Centrocampista
+Real Madrid;19;Dani Ceballos;Dani;N/D;1.78m;68kg;Centrocampista
+Real Madrid;21;Brahim Díaz;Brahim;N/D;1.7m;58kg;Centrocampista
+Real Madrid;28;Jorge Cestero;Jorge;N/D;1.8m;76kg;Centrocampista
+Real Madrid;33;Pol Fortuny;Pol;N/D;1.75m;68kg;Centrocampista
+Real Madrid;37;Manuel Ángel;Manuel;N/D;1.7m;58kg;Centrocampista
+Real Madrid;38;César Palacios;César;N/D;1.83m;68kg;Centrocampista
+Real Madrid;45;Thiago Pitarch;Thiago;N/D;1.75m;66kg;Centrocampista
+Real Madrid;47;Dani Meso;Dani;N/D;--;--;Centrocampista
+Real Madrid;07;Vinícius Júnior;Vinícius;N/D;1.75m;73kg;Delantero
+Real Madrid;10;Kylian Mbappé;Kylian;N/D;1.78m;73kg;Delantero
+Real Madrid;11;Rodrygo;Rodrygo;N/D;1.75m;63kg;Delantero
+Real Madrid;16;Gonzalo García;Gonzalo;N/D;1.83m;73kg;Delantero
+Real Madrid;30;Franco Mastantuono;Franco;N/D;1.78m;73kg;Delantero
+Real Madrid;46;Álvaro Leiva;Álvaro;N/D;1.73m;77kg;Delantero
+Valencia;01;Stole Dimitrievski;Stole;N/D;1.88m;83kg;Portero
+Valencia;13;Cristian Rivero;Cristian;N/D;1.88m;73kg;Portero
+Valencia;15;Lucas Beltrán;Lucas;N/D;1.75m;73kg;Portero
+Valencia;25;Julen Agirrezabala;Julen;N/D;1.88m;78kg;Portero
+Valencia;28;Vicent Abril;Vicent;N/D;1.88m;78kg;Portero
+Valencia;41;Pere García Bauzá;Pere;N/D;1.93m;82kg;Portero
+Valencia;42;Mouctar Diakhaby;Mouctar;N/D;1.88m;78kg;Defensa
+Valencia;03;Copete;Copete;N/D;1.93m;73kg;Defensa
+Valencia;04;Unai Núñez;Unai;N/D;1.85m;78kg;Defensa
+Valencia;05;César Tárrega;César;N/D;1.93m;78kg;Defensa
+Valencia;08;Javier Guerra;Javier;N/D;1.78m;68kg;Defensa
+Valencia;12;Thierry Correia;Thierry;N/D;1.75m;68kg;Defensa
+Valencia;14;José Gayà;José;N/D;1.73m;66kg;Defensa
+Valencia;20;Dimitri Foulquier;Dimitri;N/D;1.83m;72kg;Defensa
+Valencia;21;Jesús Vázquez;Jesús;N/D;1.83m;76kg;Defensa
+Valencia;24;Eray Cömert;Eray;N/D;1.83m;78kg;Defensa
+Valencia;26;Rubén Iranzo;Rubén;N/D;1.83m;63kg;Defensa
+Valencia;32;Alex Panach;Alex;N/D;--;--;Defensa
+Valencia;36;Marcos Navarro;Marcos;N/D;1.73m;68kg;Defensa
+Valencia;38;Marc Jurado;Marc;N/D;1.78m;--;Defensa
+Valencia;40;Joel Fontanet;Joel;N/D;--;--;Defensa
+Valencia;02;Guido Rodríguez;Guido;N/D;1.85m;78kg;Centrocampista
+Valencia;10;André Almeida;André;N/D;1.75m;62kg;Centrocampista
+Valencia;18;Pepelu;Pepelu;N/D;1.85m;73kg;Centrocampista
+Valencia;22;Baptiste Santamaria;Baptiste;N/D;1.83m;81kg;Centrocampista
+Valencia;23;Filip Ugrinic;Filip;N/D;1.83m;87kg;Centrocampista
+Valencia;29;Lucas Nuñez;Lucas;N/D;1.83m;73kg;Centrocampista
+Valencia;06;Umar Sadiq;Umar;N/D;1.93m;83kg;Delantero
+Valencia;07;Arnaut Danjuma;Arnaut;N/D;1.78m;73kg;Delantero
+Valencia;09;Hugo Duro;Hugo;N/D;1.78m;68kg;Delantero
+Valencia;11;Luis Rioja;Luis;N/D;1.75m;68kg;Delantero
+Valencia;16;Diego López;Diego;N/D;1.73m;62kg;Delantero
+Valencia;17;Largie Ramazani;Largie;N/D;1.68m;53kg;Delantero
+Valencia;19;Dani Raba;Dani;N/D;1.83m;76kg;Delantero
+Valencia;27;David Otorbi;David;N/D;1.8m;82kg;Delantero
+Valencia;37;Aimar Blázquez;Aimar;N/D;1.93m;73kg;Delantero
+Valencia;39;Mario Dominguez;Mario;N/D;1.75m;--;Delantero
+Tenerife;01;Salvi;Salvi;N/D;1.93m;86kg;Portero
+Tenerife;25;Edgar Badía;Edgar;N/D;1.8m;68kg;Portero
+Tenerife;30;Sergio Padilla;Sergio;N/D;1.83m;73kg;Portero
+Tenerife;40;Gabriel Lozano;Gabriel;N/D;--;--;Portero
+Tenerife;41;Moha Ramos;Moha;N/D;1.88m;87kg;Portero
+Tenerife;02;David Rodríguez Ramos;David;N/D;1.75m;63kg;Defensa
+Tenerife;03;Fernando Medrano Gastanaga;Fernando;N/D;1.73m;68kg;Defensa
+Tenerife;04;José León;José;N/D;1.83m;83kg;Defensa
+Tenerife;05;Sergio González;Sergio;N/D;1.83m;68kg;Defensa
+Tenerife;12;Anthony Landázuri;Anthony;N/D;1.78m;78kg;Defensa
+Tenerife;22;Jeremy Mellot;Jeremy;N/D;1.78m;68kg;Defensa
+Tenerife;23;Juan De Dios Rivas;Juan;N/D;1.88m;78kg;Defensa
+Tenerife;24;Jose Amo;Jose;N/D;1.8m;73kg;Defensa
+Tenerife;29;César Álvarez;César;N/D;--;--;Defensa
+Tenerife;31;Adrián Pérez;Adrián;N/D;1.88m;81kg;Defensa
+Tenerife;37;Matías Oscar Pezzolesi;Matías;N/D;1.83m;73kg;Defensa
+Tenerife;39;Gabriel Palmero;Gabriel;N/D;--;--;Defensa
+Tenerife;06;Fabio González;Fabio;N/D;1.75m;72kg;Centrocampista
+Tenerife;08;Youssouf Diarra;Youssouf;N/D;1.75m;71kg;Centrocampista
+Tenerife;15;Yann Bodiger;Yann;N/D;1.88m;78kg;Centrocampista
+Tenerife;16;Aitor Sanz;Aitor;N/D;1.8m;71kg;Centrocampista
+Tenerife;20;Maikel Mesa;Maikel;N/D;1.88m;78kg;Centrocampista
+Tenerife;21;Teto;Teto;N/D;1.75m;67kg;Centrocampista
+Tenerife;28;Dylan Perera Plasencia;Dylan;N/D;1.75m;--;Centrocampista
+Tenerife;32;Daniel Fernández;Daniel;N/D;1.78m;63kg;Centrocampista
+Tenerife;33;Aarón Martin Luis;Aarón;N/D;1.75m;76kg;Centrocampista
+Tenerife;36;Yerover;Yerover;N/D;1.8m;68kg;Centrocampista
+Tenerife;42;Aarón Rodríguez;Aarón;N/D;1.85m;76kg;Centrocampista
+Tenerife;07;Jorge Padilla;Jorge;N/D;1.75m;66kg;Delantero
+Tenerife;09;Ángel Rodríguez;Ángel;N/D;1.73m;63kg;Delantero
+Tenerife;10;Marlos Moreno;Marlos;N/D;1.75m;68kg;Delantero
+Tenerife;11;Luis Cruz;Luis;N/D;1.65m;62kg;Delantero
+Tenerife;14;Adrián Guerrero;Adrián;N/D;1.85m;71kg;Delantero
+Tenerife;17;Waldo Rubio;Waldo;N/D;1.83m;73kg;Delantero
+Tenerife;18;Enric Gallego;Enric;N/D;1.88m;87kg;Delantero
+Tenerife;19;Alejandro Cantero;Alejandro;N/D;1.8m;71kg;Delantero
+Tenerife;27;Alassán Manjam Gutiérrez;Alassán;N/D;1.78m;--;Delantero
+Tenerife;35;Francisco Sabina;Francisco;N/D;1.8m;72kg;Delantero
+Atlético;01;Juan Musso;Juan;N/D;1.93m;92kg;Portero
+Atlético;13;Jan Oblak;Jan;N/D;1.88m;87kg;Portero
+Atlético;31;Salvi Esquivel;Salvi;N/D;1.91m;83kg;Portero
+Atlético;33;Mario de Luis;Mario;N/D;1.85m;73kg;Portero
+Atlético;02;José María Giménez;José;N/D;1.85m;77kg;Defensa
+Atlético;03;Matteo Ruggeri;Matteo;N/D;1.88m;68kg;Defensa
+Atlético;15;Clément Lenglet;Clément;N/D;1.85m;81kg;Defensa
+Atlético;16;Nahuel Molina;Nahuel;N/D;1.78m;68kg;Defensa
+Atlético;17;Dávid Hancko;Dávid;N/D;1.88m;82kg;Defensa
+Atlético;18;Marc Pubill;Marc;N/D;1.91m;86kg;Defensa
+Atlético;24;Robin Le Normand;Robin;N/D;1.88m;78kg;Defensa
+Atlético;26;Ilias Kostis;Ilias;N/D;1.93m;81kg;Defensa
+Atlético;30;Daniel Martinez;Daniel;N/D;1.85m;--;Defensa
+Atlético;32;Javier Boñar;Javier;N/D;1.78m;68kg;Defensa
+Atlético;40;Aleksa Puric;Aleksa;N/D;1.85m;--;Defensa
+Atlético;04;Rodrigo Mendoza;Rodrigo;N/D;1.83m;72kg;Centrocampista
+Atlético;05;Johnny Cardoso;Johnny;N/D;1.85m;78kg;Centrocampista
+Atlético;06;Koke;Koke;N/D;1.75m;77kg;Centrocampista
+Atlético;08;Pablo Barrios;Pablo;N/D;1.83m;73kg;Centrocampista
+Atlético;10;Álex Baena;Álex;N/D;1.75m;68kg;Centrocampista
+Atlético;11;Thiago Almada;Thiago;N/D;1.7m;63kg;Centrocampista
+Atlético;14;Marcos Llorente;Marcos;N/D;1.83m;73kg;Centrocampista
+Atlético;21;Obed Vargas;Obed;N/D;1.75m;68kg;Centrocampista
+Atlético;27;Jano Monserrate;Jano;N/D;1.78m;68kg;Centrocampista
+Atlético;28;Taufik Seidu;Taufik;N/D;1.83m;73kg;Centrocampista
+Atlético;34;Julio Díaz;Julio;N/D;1.7m;63kg;Centrocampista
+Atlético;42;Javier Serrano;Javier;N/D;1.78m;73kg;Centrocampista
+Atlético;07;Antoine Griezmann;Antoine;N/D;1.75m;73kg;Delantero
+Atlético;09;Alexander Sørloth;Alexander;N/D;1.96m;88kg;Delantero
+Atlético;19;Julián Álvarez;Julián;N/D;1.7m;71kg;Delantero
+Atlético;20;Giuliano Simeone;Giuliano;N/D;1.75m;73kg;Delantero
+Atlético;22;Ademola Lookman;Ademola;N/D;1.75m;71kg;Delantero
+Atlético;23;Nicolás González;Nicolás;N/D;1.8m;72kg;Delantero
+Atlético;29;Rayane Belaid;Rayane;N/D;1.73m;63kg;Delantero
+Atlético;37;Iker Luque;Iker;N/D;1.68m;--;Delantero
+Atlético;45;Sergio Esteban;Sergio;N/D;--;--;Delantero
+Girona;01;Juan Carlos;Juan;N/D;1.85m;83kg;Portero
+Girona;13;Paulo Gazzaniga;Paulo;N/D;1.96m;88kg;Portero
+Girona;22;Marc-André ter Stegen;Marc-André;N/D;1.88m;87kg;Portero
+Girona;25;Vladyslav Krapyvtsov;Vladyslav;N/D;1.91m;68kg;Portero
+Girona;43;Aleksandar Andreev;Aleksandar;N/D;1.91m;83kg;Portero
+Girona;02;Hugo Rincón;Hugo;N/D;1.83m;73kg;Defensa
+Girona;04;Arnau Martínez;Arnau;N/D;1.83m;72kg;Defensa
+Girona;05;David López;David;N/D;1.85m;81kg;Defensa
+Girona;12;Vitor Reis;Vitor;N/D;1.85m;67kg;Defensa
+Girona;16;Alejandro Francés;Alejandro;N/D;1.8m;68kg;Defensa
+Girona;17;Daley Blind;Daley;N/D;1.8m;72kg;Defensa
+Girona;20;Axel Witsel;Axel;N/D;1.85m;81kg;Defensa
+Girona;24;Álex Moreno;Álex;N/D;1.78m;68kg;Defensa
+Girona;27;Pol Arnau;Pol;N/D;--;--;Defensa
+Girona;28;Gibert Jordana;Gibert;N/D;1.78m;68kg;Defensa
+Girona;31;Antonio Salguero;Antonio;N/D;--;--;Defensa
+Girona;03;Joel Roca;Joel;N/D;1.75m;72kg;Centrocampista
+Girona;06;Donny van de Beek;Donny;N/D;1.83m;76kg;Centrocampista
+Girona;08;Fran Beltrán;Fran;N/D;1.7m;66kg;Centrocampista
+Girona;11;Thomas Lemar;Thomas;N/D;1.7m;63kg;Centrocampista
+Girona;14;Claudio Echeverri;Claudio;N/D;1.7m;62kg;Centrocampista
+Girona;18;Azzedine Ounahi;Azzedine;N/D;1.83m;62kg;Centrocampista
+Girona;23;Iván Martín;Iván;N/D;1.78m;68kg;Centrocampista
+Girona;29;Lancinet Kourouma;Lancinet;N/D;1.8m;73kg;Centrocampista
+Girona;09;Portu;Portu;N/D;1.68m;66kg;Delantero
+Girona;07;Cristhian Stuani;Cristhian;N/D;1.85m;76kg;Delantero
+Girona;09;Abel Ruiz;Abel;N/D;1.83m;73kg;Delantero
+Girona;15;Viktor Tsygankov;Viktor;N/D;1.78m;73kg;Delantero
+Girona;19;Vladyslav Vanat;Vladyslav;N/D;1.83m;68kg;Delantero
+Girona;21;Bryan Gil;Bryan;N/D;1.75m;58kg;Delantero
+Girona;30;Javier Sarasa;Javier;N/D;--;--;Delantero
+Girona;32;Juan Arango;Juan;N/D;1.75m;68kg;Delantero
+Girona;44;Papa Dame Ba;Papa;N/D;1.8m;73kg;Delantero
+Sevilla;01;Odisseas Vlachodimos;Odisseas;N/D;1.88m;78kg;Portero
+Sevilla;13;Ørjan Nyland;Ørjan;N/D;1.93m;88kg;Portero
+Sevilla;31;Alberto Flores;Alberto;N/D;1.85m;78kg;Portero
+Sevilla;33;Rafael Romero;Rafael;N/D;1.93m;73kg;Portero
+Sevilla;40;Lorenzo Luchino;Lorenzo;N/D;1.88m;--;Portero
+Sevilla;02;José Ángel Carmona;José;N/D;1.83m;78kg;Defensa
+Sevilla;03;César Azpilicueta;César;N/D;1.78m;76kg;Defensa
+Sevilla;04;Enrique Salas;Enrique;N/D;1.88m;78kg;Defensa
+Sevilla;05;Tanguy Nianzou;Tanguy;N/D;1.88m;83kg;Defensa
+Sevilla;12;Gabriel Suazo;Gabriel;N/D;1.78m;72kg;Defensa
+Sevilla;15;Fábio Cardoso;Fábio;N/D;1.88m;82kg;Defensa
+Sevilla;22;Federico Gattoni;Federico;N/D;1.83m;78kg;Defensa
+Sevilla;23;Marcão;Marcão;N/D;1.85m;78kg;Defensa
+Sevilla;32;Andrés Castrín;Andrés;N/D;1.88m;83kg;Defensa
+Sevilla;36;Oso;Oso;N/D;1.83m;68kg;Defensa
+Sevilla;41;Iker Ortín;Iker;N/D;1.85m;68kg;Defensa
+Sevilla;06;Nemanja Gudelj;Nemanja;N/D;1.88m;78kg;Centrocampista
+Sevilla;08;Joan Jordán;Joan;N/D;1.83m;73kg;Centrocampista
+Sevilla;11;Rubén Vargas;Rubén;N/D;1.78m;77kg;Centrocampista
+Sevilla;16;Juanlu Sanchez;Juanlu;N/D;1.83m;68kg;Centrocampista
+Sevilla;18;Lucien Agoumé;Lucien;N/D;1.85m;72kg;Centrocampista
+Sevilla;19;Batista Mendy;Batista;N/D;1.91m;82kg;Centrocampista
+Sevilla;20;Djibril Sow;Djibril;N/D;1.83m;76kg;Centrocampista
+Sevilla;24;Adnan Januzaj;Adnan;N/D;1.85m;76kg;Centrocampista
+Sevilla;28;Manu Bueno;Manu;N/D;1.78m;73kg;Centrocampista
+Sevilla;39;Edu Altozano;Edu;N/D;1.7m;63kg;Centrocampista
+Sevilla;07;Isaac Romero;Isaac;N/D;1.83m;68kg;Delantero
+Sevilla;09;Akor Adams;Akor;N/D;1.91m;92kg;Delantero
+Sevilla;10;Alexis Sánchez;Alexis;N/D;1.7m;62kg;Delantero
+Sevilla;14;Peque;Peque;N/D;1.73m;66kg;Delantero
+Sevilla;17;Neal Maupay;Neal;N/D;1.73m;68kg;Delantero
+Sevilla;21;Chidera Ejuke;Chidera;N/D;1.75m;72kg;Delantero
+Sevilla;26;Álex Costa;Álex;N/D;1.88m;78kg;Delantero
+Sevilla;29;Miguel Sierra;Miguel;N/D;1.8m;68kg;Delantero
