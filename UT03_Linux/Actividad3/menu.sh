@@ -19,10 +19,13 @@
 
 case "$eleccion" in 
     1)
-       df -h 
+        df --output=source,pcent,target
     ;;
     2)
-        df -h
+        libre= df -h --output=avail / | tail -1
+        echo
+        echo -n "Tienes $libre libres en tu raíz"
+                
     ;;
     3)
         echo

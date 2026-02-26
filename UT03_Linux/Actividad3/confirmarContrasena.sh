@@ -16,9 +16,12 @@ while true; do
     echo
 
     if [[ "$contra1" == "$contra2" ]]; then
+        echo "----------------------------------------------------"
         echo "✅ OK: Las contraseñas coinciden."
+        echo "----------------------------------------------------"
         exit 0
     else
+        echo "----------------------------------------------------"
         echo "💥 ERROR: Las contraseñas no son iguales. Intente de nuevo."
         echo "----------------------------------------------------"
     fi

@@ -8,6 +8,7 @@
 
 #!/bin/bash
 
+echo ¡Bienvenido!
 read -p "Introduzca la base de su cuadrado: " base
 echo
 read -p "Introduzca la altura de su cuadrado: " altura
