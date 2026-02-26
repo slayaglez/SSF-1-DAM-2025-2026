@@ -8,6 +8,7 @@
 
 #!/bin/bash
 
+echo "🤟🤟 Super triángulo 🤟🤟"
 read -p "Introduzca la altura de su triángulo: " altura
 echo
 
