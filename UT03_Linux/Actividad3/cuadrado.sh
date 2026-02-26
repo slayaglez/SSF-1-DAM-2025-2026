@@ -8,6 +8,17 @@
 
 #!/bin/bash
 
-git add .
-git commit -m "$1"
-git push
+read -p "Introduzca la base de su cuadrado: " base
+echo
+read -p "Introduzca la altura de su cuadrado: " altura
+echo
+
+for ((i=0; i<base; i++)); do
+    
+    for ((j=0; j<altura; j++)); do
+
+        echo -n "# "
+    done
+
+    echo ""
+done
