@@ -2,5 +2,6 @@
 
 echo -e "inicializamos bucle infinito para consumir CPU";
 while true; do
-  sleep 0.000001
+  echo "Ya la iba a grabar pero a baja calidad" > /dev/null
+   
 done
