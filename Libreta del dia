@@ -1,0 +1,13 @@
+Que diferencia hay entre la señal -9 y las demas
+- no puede ser trapeada
+Qué es un servicio
+- un servicio es un programa que el sistema operativo gestiona
+Qué son los inodos y cómo funcionan
+- 
+Logs del sistema -journalctl
+- 
+ps aux es una foto vs top que es interactivo
+- esa es la diferencia
+at tiene una particularidad, recrea el entorno en el momento en el que se ejecuta
+
+* Diapositiva 138
