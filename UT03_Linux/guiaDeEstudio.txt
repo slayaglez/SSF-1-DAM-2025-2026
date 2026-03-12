@@ -1,0 +1,186 @@
+Guía de Estudio: Administración de Sistemas GNU/Linux y Scripting en Bash
+
+Esta guía proporciona una síntesis exhaustiva de los conceptos fundamentales, herramientas de administración y técnicas de automatización en entornos GNU/Linux, basada en el material de estudio proporcionado. Está diseñada para facilitar la preparación de exámenes técnicos en el área de sistemas informáticos.
+
+
+--------------------------------------------------------------------------------
+
+
+1. Estructura del Sistema de Archivos y Almacenamiento
+
+Jerarquía de Directorios Estándar
+
+En GNU/Linux, todo cuelga de la raíz /. A continuación se detallan los directorios críticos:
+
+Directorio	Descripción
+/bin	Binarios esenciales del sistema.
+/sbin	Binarios del sistema para tareas de administración.
+/etc	Archivos de configuración del sistema y servicios.
+/dev	Archivos que representan dispositivos de hardware.
+/proc	Sistema de archivos virtual con información de procesos y del núcleo.
+/var	Archivos de datos variables (logs, bases de datos).
+/tmp	Archivos temporales.
+/usr	Binarios de usuario y datos de programas compartidos.
+/home	Datos personales y directorios de los usuarios.
+/boot	Archivos necesarios para el arranque del sistema.
+/lib	Bibliotecas compartidas necesarias para los binarios.
+/media	Puntos de montaje para medios extraíbles.
+/mnt	Directorio para montar sistemas de archivos temporalmente.
+
+El Concepto de Inodo (Inode)
+
+Un inodo es una estructura de datos que almacena los metadatos de un archivo.
+
+* Contenido del Inodo: Propietario (UID), Grupo (GID), permisos, tamaño del archivo, tipo de archivo, marcas de tiempo (atime, mtime, ctime) y punteros a los bloques de datos físicos.
+* Relación: Una entrada de directorio asocia un nombre de archivo con un número de inodo.
+
+Tipos de Enlaces (Links)
+
+1. Enlace Simbólico (Soft Link): Funciona como un acceso directo. Si se borra el original, el enlace queda roto. Se crea con ln -s [origen] [enlace].
+2. Enlace Duro (Hard Link): Es una referencia directa al inodo. Si se borra el nombre original, el archivo sigue existiendo mientras quede al menos un enlace duro. Se crea con ln [origen] [enlace].
+
+
+--------------------------------------------------------------------------------
+
+
+2. Herramientas de Análisis y Edición de Flujos
+
+Comando awk
+
+Es un lenguaje de programación diseñado para procesar y analizar archivos de texto basados en columnas.
+
+* Sintaxis básica: awk 'condición {acción}' archivo
+* Variables especiales:
+  * $1, $2, $n: Referencia a columnas específicas. $0 es la línea completa.
+  * $NF: Referencia a la última columna de la línea.
+  * NR: Número de registro actual (número de línea).
+* Opciones comunes:
+  * -F [separador]: Define el delimitador de campos (por defecto es el espacio).
+  * -v [variable=valor]: Permite pasar variables externas al script awk.
+* Bloques Especiales: BEGIN (se ejecuta antes de procesar el archivo) y END (se ejecuta tras procesar la última línea).
+
+Comando sed (Stream Editor)
+
+Editor de flujo no interactivo que transforma texto línea por línea.
+
+* Función principal: Búsqueda y reemplazo mediante la orden s/buscar/reemplazar/g.
+* Memorias:
+  * Pattern Space: Memoria a corto plazo para los datos actuales.
+  * Hold Space: Memoria de largo plazo para guardar datos y recuperarlos después.
+* Parámetros críticos:
+  * -i: Realiza cambios directamente en el archivo original.
+  * -n: Suprime la salida automática (útil con la orden p para mostrar solo líneas específicas).
+
+Comando grep
+
+Busca patrones de texto dentro de archivos o salidas de otros comandos.
+
+* Opciones útiles:
+  * -i: Ignora mayúsculas y minúsculas.
+  * -v: Muestra las líneas que no coinciden con el patrón.
+  * -r: Búsqueda recursiva en directorios.
+  * -c: Cuenta el número de coincidencias.
+
+
+--------------------------------------------------------------------------------
+
+
+3. Administración y Comandos del Sistema
+
+Gestión de Archivos y Búsqueda
+
+* find [ruta] [expresión] [acción]: Herramienta potente para localizar archivos.
+  * Búsqueda por tiempo: -mmin -30 (modificados en los últimos 30 min), -mtime +1 (más de 48 horas).
+  * Búsqueda por tamaño: -size +10M (más de 10 megabytes).
+  * Operadores: -and, -or, -not.
+* cut: Selecciona columnas o campos de cada línea.
+* tr: Reemplaza o borra caracteres.
+
+Monitorización y Logs
+
+Comando	Función
+free -h	Muestra el estado de la memoria RAM y SWAP en formato legible.
+df -h	Muestra el espacio libre y usado en las particiones de disco.
+du -sh	Calcula el espacio ocupado por un directorio específico.
+top / ps aux	Muestra los procesos en ejecución y el uso de recursos.
+journalctl -f	Visualiza logs del sistema en tiempo real.
+
+
+--------------------------------------------------------------------------------
+
+
+4. Bash Scripting: Fundamentos de Automatización
+
+Conceptos Clave
+
+* Shebang (#! /usr/bin/bash): Primera línea que indica qué intérprete debe ejecutar el script.
+* Argumentos: $1, $2, etc., representan los parámetros pasados al script al ejecutarlo.
+* Códigos de salida: exit 0 indica éxito, cualquier otro valor (usualmente 1) indica error.
+
+Estructuras de Control e Introducción de Datos
+
+* Lectura de datos: read -p "Mensaje" variable. El parámetro -s oculta la entrada (útil para contraseñas).
+* Condicionales (if):
+* Operadores Lógicos de Comandos:
+  * &&: Ejecuta el segundo comando solo si el primero tuvo éxito.
+  * ||: Ejecuta el segundo comando solo si el primero falló.
+
+Expansión de Llaves (Bracing Expansion)
+
+Permite generar secuencias o combinaciones de texto antes de ejecutar un comando.
+
+* Rangos: {1..5} genera 1 2 3 4 5.
+* Saltos: {0..10..2} genera 0 2 4 6 8 10.
+* Estructuras complejas: mkdir -p proyecto/{src,bin,lib} crea tres subcarpetas dentro de "proyecto" en una sola línea.
+
+
+--------------------------------------------------------------------------------
+
+
+5. Glosario de Términos Técnicos
+
+* Bash: Intérprete de comandos (shell) estándar en la mayoría de las distribuciones Linux.
+* DevOps: Metodología que combina desarrollo de software y operaciones, apoyándose fuertemente en el scripting y la automatización.
+* Expresión Regular (Regex): Secuencia de caracteres que forma un patrón de búsqueda, utilizada por herramientas como grep, sed y awk.
+* Hostname: Nombre asignado a la máquina dentro de una red.
+* Kernel: El núcleo del sistema operativo que gestiona el hardware y los procesos.
+* Pipe (|): Redirección que pasa la salida de un comando (stdout) como entrada al siguiente (stdin).
+* Root: Superusuario con privilegios totales sobre el sistema.
+* Wildcard: Caracteres comodín (como * o ?) que representan uno o varios caracteres en búsquedas.
+
+
+--------------------------------------------------------------------------------
+
+
+6. Cuestionario de Autoevaluación
+
+Preguntas
+
+1. ¿Qué comando usarías para ver el espacio ocupado por las particiones en formato humano (GB, MB)?
+2. En un script de Bash, ¿qué representa la variable $NF cuando se usa con awk?
+3. ¿Cuál es la diferencia principal entre un enlace duro y un enlace simbólico al eliminar el archivo original?
+4. ¿Qué comando y parámetro utilizarías para buscar archivos modificados hace exactamente 30 minutos?
+5. ¿Cómo se puede ocultar el texto que escribe un usuario al solicitarle una contraseña en un script?
+6. ¿Qué hace el operador || entre dos comandos?
+7. ¿Cuál es la función del directorio /etc?
+8. Escribe el comando para crear una estructura de carpetas llamada test con subcarpetas v1, v2 y v3 usando expansión de llaves.
+9. ¿Para qué sirve el parámetro -i en el comando sed?
+10. ¿Qué herramienta utilizarías si necesitas realizar operaciones matemáticas complejas o bucles dentro del procesamiento de un archivo de texto?
+
+
+--------------------------------------------------------------------------------
+
+
+Clave de Respuestas
+
+1. df -h.
+2. Representa el contenido del último campo (columna) de la línea procesada.
+3. En el enlace simbólico, el enlace queda roto ("huérfano"). En el enlace duro, el contenido sigue siendo accesible a través del enlace.
+4. find / -mmin 30.
+5. Utilizando el comando read -s.
+6. Ejecuta el segundo comando solo si el primero falla (código de retorno distinto de 0).
+7. Almacenar archivos de configuración del sistema y de las aplicaciones instaladas.
+8. mkdir -p test/v{1..3} o mkdir -p test/{v1,v2,v3}.
+9. Permite editar el archivo "in-place", es decir, guarda los cambios directamente en el archivo original.
+10. El comando awk.
+
